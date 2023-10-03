@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RudimentaryCryptography/bin/Debug/net7.0-windows
+/RudimentaryCryptography/obj
+/RudimentaryCryptography.Library/bin/Debug/net7.0
+/RudimentaryCryptography.Library/obj
+/report.docx
